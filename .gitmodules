@@ -4,6 +4,9 @@
 [submodule "auto-compile"]
 	path = lib/auto-compile
 	url = https://github.com/emacscollective/auto-compile.git
+[submodule "avy"]
+	path = lib/avy
+	url = https://github.com/abo-abo/avy
 [submodule "borg"]
 	path = lib/borg
 	url = https://github.com/emacscollective/borg.git
@@ -28,6 +31,15 @@
 [submodule "git-modes"]
 	path = lib/git-modes
 	url = https://github.com/magit/git-modes.git
+[submodule "hydra"]
+	path = lib/hydra
+	url = https://github.com/abo-abo/hydra
+[submodule "iedit"]
+	path = lib/iedit
+	url = https://github.com/victorhge/iedit
+[submodule "lispy"]
+	path = lib/lispy
+	url = https://github.com/abo-abo/lispy
 [submodule "llama"]
 	path = lib/llama
 	url = https://github.com/tarsius/llama.git
@@ -43,3 +55,6 @@
 [submodule "with-editor"]
 	path = lib/with-editor
 	url = https://github.com/magit/with-editor.git
+[submodule "zoutline"]
+	path = lib/zoutline
+	url = https://github.com/abo-abo/zoutline
