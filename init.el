@@ -174,6 +174,10 @@
   :defer t
   :config (cl-pushnew 'tramp-own-remote-path tramp-remote-path))
 
+;;; packages
+(use-package lispy
+  :hook (emacs-lisp-mode . lispy-mode))
+
 ;;; Tequila worms
 
 (progn ;     startup
